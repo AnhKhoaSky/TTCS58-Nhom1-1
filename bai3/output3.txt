@@ -1,0 +1,38 @@
+ket qua nhan vien: 
+Ma nhan vien: 1
+Ten nhan vien: thanh
+
+Ho nhan vien: nguyen
+
+Luong nhan vien: 300
+ 
+luong nhan vien cao nhat: 
+Ma nhan vien: 1
+Ten nhan vien: thanh
+
+Ho nhan vien: nguyen
+
+Luong nhan vien: 300
+ 
+khong tim thay nhan vien: 
+======================
+Ma nhan vien: 1
+Ten nhan vien: thanh
+
+Ho nhan vien: nguyen
+
+Luong nhan vien: 300
+======================
+Ma nhan vien: 2
+Ten nhan vien: thanh
+
+Ho nhan vien: le
+
+Luong nhan vien: 400
+======================
+Ma nhan vien: 3
+Ten nhan vien: thanh
+
+Ho nhan vien: vo
+
+Luong nhan vien: 500
